@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tableau de Bord</title>
+    <!-- FullCalendar CSS -->
+    <link href='https://cdn.jsdelivr.net/npm/fullcalendar@5.11.0/main.min.css' rel='stylesheet' />
+    <!-- Votre propre CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        /* Styles pour la zone de chat */
+        #chat-container {
+            margin-top: 20px;
+            border: 1px solid #ccc;
+            padding: 10px;
+            height: 300px;
+            overflow-y: scroll;
+        }
+        #chat-input {
+            width: 100%;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+        #chat-send {
+            margin-top: 5px;
+            padding: 10px 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Votre Tableau de Bord</h1>
+
+        <!-- Div pour le calendrier -->
+        <div id='calendar'></div>
+
+        <!-- FullCalendar JS -->
+        <script src='https://cdn.jsdelivr.net/npm/fullcalendar@5.11.0/main.min.js'></script>
+        <!-- Script pour initialiser le calendrier -->
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                var calendarEl = document.getElementById('calendar');
+
+                var calendar = new FullCalendar.Calendar(calendarEl, {
+                    initialView: 'dayGridMonth',
+                    events: '/get_events'  // Utilisez une route Flask pour récupérer les événements
+                });
+
+                calendar.render();
+            });
+        </script>
+
+        <!-- Zone de chat -->
+        <div id="chat-container"></div>
+        <input type="text" id="chat-input" placeholder="Tapez un message...">
+        <button id="chat-send">Envoyer</button>
+
+        <a href="{{ url_for('main.logout_view') }}">Déconnexion</a>
+    </div>
+
+    <script>
+        document.getElementById('chat-send').addEventListener('click', function() {
+            var input = document.getElementById('chat-input').value;
+            document.getElementById('chat-input').value = '';
+
+            // Envoyer le message au serveur
+            fetch('/chat', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({message: input}),
+            })
+            .then(response => response.json())
+            .then(data => {
+                var chatContainer = document.getElementById('chat-container');
+                chatContainer.innerHTML += `<div><b>Vous:</b> ${input}</div>`;
+                chatContainer.innerHTML += `<div><b>IA:</b> ${data.response}</div>`;
+                chatContainer.scrollTop = chatContainer.scrollHeight; // Scrolle vers le bas du chat
+            });
+        });
+    </script>
+</body>
+</html>

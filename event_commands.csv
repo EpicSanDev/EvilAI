@@ -1,0 +1,1001 @@
+command,label
+ajoute un événement appel pour le 2024-09-30 à 20:00,add_event
+efface l'événement appel du 2024-09-30,delete_event
+déplace l'événement appel à 20:00,update_event
+quand ai-je prévu appel ?,get_event
+ajouter un événement dîner le 2024-12-02 à 09:00,add_event
+annuler dîner prévu le 2024-12-02,delete_event
+replanifier dîner pour 09:00,update_event
+quand ai-je prévu dîner ?,get_event
+calendrier dîner le 2024-09-16 à 09:00,add_event
+efface l'événement dîner du 2024-09-16,delete_event
+change l'heure de l'événement dîner à 09:00,update_event
+rappelle-moi quand est dîner,get_event
+planifier appel le 2024-11-26 à 11:00,add_event
+annuler appel prévu le 2024-11-26,delete_event
+met à jour l'événement appel pour 11:00,update_event
+rappelle-moi quand est appel,get_event
+prévoir appel le 2024-10-07 à 16:00,add_event
+supprime l'événement appel du 2024-10-07,delete_event
+replanifier appel pour 16:00,update_event
+quels événements sont prévus le 2024-10-07 ?,get_event
+prévoir dîner le 2024-10-29 à 11:00,add_event
+retire dîner du calendrier le 2024-10-29,delete_event
+change l'heure de l'événement dîner à 11:00,update_event
+quand ai-je prévu dîner ?,get_event
+ajoute un événement conférence pour le 2024-11-10 à 11:00,add_event
+retire conférence du calendrier le 2024-11-10,delete_event
+met à jour l'événement conférence pour 11:00,update_event
+rappelle-moi quand est conférence,get_event
+ajouter un événement appel le 2024-11-29 à 11:00,add_event
+annuler appel prévu le 2024-11-29,delete_event
+déplace l'événement appel à 11:00,update_event
+montre-moi les événements du 2024-11-29,get_event
+planifier entretien le 2024-08-29 à 16:00,add_event
+supprimer l'événement entretien du 2024-08-29,delete_event
+modifie l'événement entretien à 16:00,update_event
+quand est ma entretien ?,get_event
+planifier entretien le 2024-11-16 à 09:00,add_event
+annuler entretien prévu le 2024-11-16,delete_event
+déplace l'événement entretien à 09:00,update_event
+montre-moi les événements du 2024-11-16,get_event
+prévoir entretien le 2024-11-25 à 20:00,add_event
+supprimer l'événement entretien du 2024-11-25,delete_event
+modifie l'événement entretien à 20:00,update_event
+quand ai-je prévu entretien ?,get_event
+planifier appel le 2024-09-02 à 19:00,add_event
+annuler appel prévu le 2024-09-02,delete_event
+modifie l'événement appel à 19:00,update_event
+quand ai-je prévu appel ?,get_event
+calendrier formation le 2024-09-11 à 20:00,add_event
+supprimer l'événement formation du 2024-09-11,delete_event
+replanifier formation pour 20:00,update_event
+quand ai-je prévu formation ?,get_event
+ajoute un événement appel pour le 2024-09-05 à 14:00,add_event
+supprime l'événement appel du 2024-09-05,delete_event
+déplace l'événement appel à 14:00,update_event
+quand ai-je prévu appel ?,get_event
+calendrier réunion le 2024-11-30 à 09:00,add_event
+supprime l'événement réunion du 2024-11-30,delete_event
+change l'heure de l'événement réunion à 09:00,update_event
+rappelle-moi quand est réunion,get_event
+ajouter un événement conférence le 2024-11-17 à 20:00,add_event
+supprimer l'événement conférence du 2024-11-17,delete_event
+modifie l'événement conférence à 20:00,update_event
+montre-moi les événements du 2024-11-17,get_event
+calendrier conférence le 2024-10-09 à 09:00,add_event
+annuler conférence prévu le 2024-10-09,delete_event
+change l'heure de l'événement conférence à 09:00,update_event
+quels événements sont prévus le 2024-10-09 ?,get_event
+ajouter un événement réunion le 2024-10-02 à 19:00,add_event
+supprime l'événement réunion du 2024-10-02,delete_event
+replanifier réunion pour 19:00,update_event
+quand est ma réunion ?,get_event
+ajoute un événement appel pour le 2024-09-09 à 16:00,add_event
+supprimer l'événement appel du 2024-09-09,delete_event
+change l'heure de l'événement appel à 16:00,update_event
+quand ai-je prévu appel ?,get_event
+ajoute un événement entretien pour le 2024-11-02 à 15:00,add_event
+retire entretien du calendrier le 2024-11-02,delete_event
+met à jour l'événement entretien pour 15:00,update_event
+montre-moi les événements du 2024-11-02,get_event
+planifier appel le 2024-09-27 à 19:00,add_event
+efface l'événement appel du 2024-09-27,delete_event
+replanifier appel pour 19:00,update_event
+montre-moi les événements du 2024-09-27,get_event
+planifier réunion le 2024-10-24 à 14:00,add_event
+retire réunion du calendrier le 2024-10-24,delete_event
+met à jour l'événement réunion pour 14:00,update_event
+quels événements sont prévus le 2024-10-24 ?,get_event
+calendrier réunion le 2024-11-17 à 16:00,add_event
+efface l'événement réunion du 2024-11-17,delete_event
+déplace l'événement réunion à 16:00,update_event
+quand ai-je prévu réunion ?,get_event
+planifier conférence le 2024-11-08 à 19:00,add_event
+supprime l'événement conférence du 2024-11-08,delete_event
+change l'heure de l'événement conférence à 19:00,update_event
+quand est ma conférence ?,get_event
+prévoir entretien le 2024-09-17 à 10:00,add_event
+retire entretien du calendrier le 2024-09-17,delete_event
+replanifier entretien pour 10:00,update_event
+rappelle-moi quand est entretien,get_event
+calendrier dîner le 2024-10-07 à 15:00,add_event
+supprime l'événement dîner du 2024-10-07,delete_event
+met à jour l'événement dîner pour 15:00,update_event
+quand est ma dîner ?,get_event
+ajouter un événement conférence le 2024-09-17 à 10:00,add_event
+retire conférence du calendrier le 2024-09-17,delete_event
+change l'heure de l'événement conférence à 10:00,update_event
+quand ai-je prévu conférence ?,get_event
+calendrier formation le 2024-11-14 à 14:00,add_event
+retire formation du calendrier le 2024-11-14,delete_event
+change l'heure de l'événement formation à 14:00,update_event
+montre-moi les événements du 2024-11-14,get_event
+ajouter un événement réunion le 2024-10-19 à 15:00,add_event
+annuler réunion prévu le 2024-10-19,delete_event
+modifie l'événement réunion à 15:00,update_event
+montre-moi les événements du 2024-10-19,get_event
+planifier réunion le 2024-10-18 à 14:00,add_event
+supprime l'événement réunion du 2024-10-18,delete_event
+déplace l'événement réunion à 14:00,update_event
+rappelle-moi quand est réunion,get_event
+ajoute un événement cours pour le 2024-10-04 à 10:00,add_event
+retire cours du calendrier le 2024-10-04,delete_event
+modifie l'événement cours à 10:00,update_event
+quand est ma cours ?,get_event
+ajoute un événement appel pour le 2024-11-24 à 16:00,add_event
+efface l'événement appel du 2024-11-24,delete_event
+replanifier appel pour 16:00,update_event
+rappelle-moi quand est appel,get_event
+planifier cours le 2024-10-23 à 10:00,add_event
+supprime l'événement cours du 2024-10-23,delete_event
+change l'heure de l'événement cours à 10:00,update_event
+quand est ma cours ?,get_event
+ajouter un événement dîner le 2024-10-18 à 14:00,add_event
+supprimer l'événement dîner du 2024-10-18,delete_event
+déplace l'événement dîner à 14:00,update_event
+quand est ma dîner ?,get_event
+planifier formation le 2024-10-25 à 11:00,add_event
+supprimer l'événement formation du 2024-10-25,delete_event
+change l'heure de l'événement formation à 11:00,update_event
+quand ai-je prévu formation ?,get_event
+ajouter un événement cours le 2024-11-05 à 09:00,add_event
+annuler cours prévu le 2024-11-05,delete_event
+met à jour l'événement cours pour 09:00,update_event
+quand ai-je prévu cours ?,get_event
+calendrier réunion le 2024-11-15 à 16:00,add_event
+supprime l'événement réunion du 2024-11-15,delete_event
+change l'heure de l'événement réunion à 16:00,update_event
+quand est ma réunion ?,get_event
+prévoir cours le 2024-11-23 à 09:00,add_event
+annuler cours prévu le 2024-11-23,delete_event
+met à jour l'événement cours pour 09:00,update_event
+quand est ma cours ?,get_event
+prévoir appel le 2024-11-29 à 19:00,add_event
+annuler appel prévu le 2024-11-29,delete_event
+change l'heure de l'événement appel à 19:00,update_event
+quand ai-je prévu appel ?,get_event
+planifier entretien le 2024-11-08 à 10:00,add_event
+annuler entretien prévu le 2024-11-08,delete_event
+modifie l'événement entretien à 10:00,update_event
+montre-moi les événements du 2024-11-08,get_event
+planifier cours le 2024-10-26 à 16:00,add_event
+retire cours du calendrier le 2024-10-26,delete_event
+déplace l'événement cours à 16:00,update_event
+quand est ma cours ?,get_event
+ajoute un événement réunion pour le 2024-09-11 à 11:00,add_event
+supprime l'événement réunion du 2024-09-11,delete_event
+modifie l'événement réunion à 11:00,update_event
+quand est ma réunion ?,get_event
+calendrier formation le 2024-10-24 à 11:00,add_event
+retire formation du calendrier le 2024-10-24,delete_event
+replanifier formation pour 11:00,update_event
+quand est ma formation ?,get_event
+ajouter un événement formation le 2024-10-21 à 14:00,add_event
+efface l'événement formation du 2024-10-21,delete_event
+replanifier formation pour 14:00,update_event
+quand est ma formation ?,get_event
+calendrier réunion le 2024-09-04 à 19:00,add_event
+annuler réunion prévu le 2024-09-04,delete_event
+replanifier réunion pour 19:00,update_event
+quand est ma réunion ?,get_event
+planifier réunion le 2024-11-17 à 16:00,add_event
+supprimer l'événement réunion du 2024-11-17,delete_event
+met à jour l'événement réunion pour 16:00,update_event
+quels événements sont prévus le 2024-11-17 ?,get_event
+ajoute un événement dîner pour le 2024-09-23 à 15:00,add_event
+retire dîner du calendrier le 2024-09-23,delete_event
+replanifier dîner pour 15:00,update_event
+quand est ma dîner ?,get_event
+calendrier conférence le 2024-12-03 à 16:00,add_event
+retire conférence du calendrier le 2024-12-03,delete_event
+déplace l'événement conférence à 16:00,update_event
+quand ai-je prévu conférence ?,get_event
+prévoir appel le 2024-09-28 à 09:00,add_event
+supprime l'événement appel du 2024-09-28,delete_event
+déplace l'événement appel à 09:00,update_event
+quand est ma appel ?,get_event
+planifier dîner le 2024-11-14 à 10:00,add_event
+efface l'événement dîner du 2024-11-14,delete_event
+modifie l'événement dîner à 10:00,update_event
+quand est ma dîner ?,get_event
+calendrier dîner le 2024-11-21 à 20:00,add_event
+retire dîner du calendrier le 2024-11-21,delete_event
+replanifier dîner pour 20:00,update_event
+quand ai-je prévu dîner ?,get_event
+ajouter un événement réunion le 2024-11-02 à 15:00,add_event
+efface l'événement réunion du 2024-11-02,delete_event
+change l'heure de l'événement réunion à 15:00,update_event
+quels événements sont prévus le 2024-11-02 ?,get_event
+ajoute un événement réunion pour le 2024-11-03 à 09:00,add_event
+annuler réunion prévu le 2024-11-03,delete_event
+replanifier réunion pour 09:00,update_event
+quels événements sont prévus le 2024-11-03 ?,get_event
+ajoute un événement cours pour le 2024-10-19 à 14:00,add_event
+supprime l'événement cours du 2024-10-19,delete_event
+change l'heure de l'événement cours à 14:00,update_event
+rappelle-moi quand est cours,get_event
+planifier formation le 2024-11-22 à 10:00,add_event
+retire formation du calendrier le 2024-11-22,delete_event
+replanifier formation pour 10:00,update_event
+quand ai-je prévu formation ?,get_event
+ajouter un événement dîner le 2024-11-16 à 19:00,add_event
+supprime l'événement dîner du 2024-11-16,delete_event
+modifie l'événement dîner à 19:00,update_event
+quels événements sont prévus le 2024-11-16 ?,get_event
+ajoute un événement cours pour le 2024-10-15 à 11:00,add_event
+supprimer l'événement cours du 2024-10-15,delete_event
+met à jour l'événement cours pour 11:00,update_event
+quand ai-je prévu cours ?,get_event
+ajoute un événement cours pour le 2024-11-26 à 15:00,add_event
+retire cours du calendrier le 2024-11-26,delete_event
+change l'heure de l'événement cours à 15:00,update_event
+montre-moi les événements du 2024-11-26,get_event
+planifier formation le 2024-11-17 à 20:00,add_event
+supprimer l'événement formation du 2024-11-17,delete_event
+change l'heure de l'événement formation à 20:00,update_event
+montre-moi les événements du 2024-11-17,get_event
+ajoute un événement cours pour le 2024-09-10 à 20:00,add_event
+supprimer l'événement cours du 2024-09-10,delete_event
+modifie l'événement cours à 20:00,update_event
+montre-moi les événements du 2024-09-10,get_event
+ajouter un événement appel le 2024-10-20 à 14:00,add_event
+supprime l'événement appel du 2024-10-20,delete_event
+modifie l'événement appel à 14:00,update_event
+quels événements sont prévus le 2024-10-20 ?,get_event
+prévoir conférence le 2024-11-29 à 20:00,add_event
+supprime l'événement conférence du 2024-11-29,delete_event
+replanifier conférence pour 20:00,update_event
+quels événements sont prévus le 2024-11-29 ?,get_event
+prévoir formation le 2024-08-29 à 11:00,add_event
+supprimer l'événement formation du 2024-08-29,delete_event
+modifie l'événement formation à 11:00,update_event
+quand ai-je prévu formation ?,get_event
+ajouter un événement appel le 2024-10-27 à 11:00,add_event
+supprime l'événement appel du 2024-10-27,delete_event
+change l'heure de l'événement appel à 11:00,update_event
+quand ai-je prévu appel ?,get_event
+ajouter un événement dîner le 2024-11-15 à 20:00,add_event
+retire dîner du calendrier le 2024-11-15,delete_event
+met à jour l'événement dîner pour 20:00,update_event
+montre-moi les événements du 2024-11-15,get_event
+prévoir appel le 2024-10-01 à 10:00,add_event
+supprimer l'événement appel du 2024-10-01,delete_event
+modifie l'événement appel à 10:00,update_event
+rappelle-moi quand est appel,get_event
+ajoute un événement dîner pour le 2024-09-07 à 20:00,add_event
+retire dîner du calendrier le 2024-09-07,delete_event
+modifie l'événement dîner à 20:00,update_event
+quand ai-je prévu dîner ?,get_event
+calendrier entretien le 2024-11-28 à 10:00,add_event
+annuler entretien prévu le 2024-11-28,delete_event
+replanifier entretien pour 10:00,update_event
+quand est ma entretien ?,get_event
+ajoute un événement réunion pour le 2024-11-07 à 16:00,add_event
+supprime l'événement réunion du 2024-11-07,delete_event
+déplace l'événement réunion à 16:00,update_event
+rappelle-moi quand est réunion,get_event
+prévoir entretien le 2024-09-19 à 11:00,add_event
+efface l'événement entretien du 2024-09-19,delete_event
+met à jour l'événement entretien pour 11:00,update_event
+quels événements sont prévus le 2024-09-19 ?,get_event
+prévoir conférence le 2024-08-29 à 20:00,add_event
+annuler conférence prévu le 2024-08-29,delete_event
+met à jour l'événement conférence pour 20:00,update_event
+quand ai-je prévu conférence ?,get_event
+ajoute un événement entretien pour le 2024-11-11 à 14:00,add_event
+supprime l'événement entretien du 2024-11-11,delete_event
+replanifier entretien pour 14:00,update_event
+quand est ma entretien ?,get_event
+ajouter un événement conférence le 2024-11-30 à 10:00,add_event
+supprime l'événement conférence du 2024-11-30,delete_event
+change l'heure de l'événement conférence à 10:00,update_event
+quand ai-je prévu conférence ?,get_event
+calendrier formation le 2024-11-24 à 20:00,add_event
+efface l'événement formation du 2024-11-24,delete_event
+met à jour l'événement formation pour 20:00,update_event
+quand est ma formation ?,get_event
+ajoute un événement conférence pour le 2024-09-30 à 19:00,add_event
+efface l'événement conférence du 2024-09-30,delete_event
+change l'heure de l'événement conférence à 19:00,update_event
+quels événements sont prévus le 2024-09-30 ?,get_event
+ajoute un événement cours pour le 2024-09-12 à 11:00,add_event
+retire cours du calendrier le 2024-09-12,delete_event
+modifie l'événement cours à 11:00,update_event
+quels événements sont prévus le 2024-09-12 ?,get_event
+ajouter un événement dîner le 2024-09-20 à 19:00,add_event
+supprime l'événement dîner du 2024-09-20,delete_event
+modifie l'événement dîner à 19:00,update_event
+rappelle-moi quand est dîner,get_event
+ajouter un événement cours le 2024-10-21 à 10:00,add_event
+supprime l'événement cours du 2024-10-21,delete_event
+déplace l'événement cours à 10:00,update_event
+rappelle-moi quand est cours,get_event
+prévoir cours le 2024-11-21 à 10:00,add_event
+retire cours du calendrier le 2024-11-21,delete_event
+déplace l'événement cours à 10:00,update_event
+montre-moi les événements du 2024-11-21,get_event
+prévoir réunion le 2024-10-22 à 09:00,add_event
+retire réunion du calendrier le 2024-10-22,delete_event
+modifie l'événement réunion à 09:00,update_event
+quels événements sont prévus le 2024-10-22 ?,get_event
+calendrier entretien le 2024-11-11 à 15:00,add_event
+retire entretien du calendrier le 2024-11-11,delete_event
+modifie l'événement entretien à 15:00,update_event
+quand est ma entretien ?,get_event
+planifier réunion le 2024-11-06 à 11:00,add_event
+annuler réunion prévu le 2024-11-06,delete_event
+replanifier réunion pour 11:00,update_event
+quand est ma réunion ?,get_event
+prévoir dîner le 2024-10-24 à 14:00,add_event
+retire dîner du calendrier le 2024-10-24,delete_event
+modifie l'événement dîner à 14:00,update_event
+quand ai-je prévu dîner ?,get_event
+ajouter un événement entretien le 2024-11-14 à 10:00,add_event
+supprimer l'événement entretien du 2024-11-14,delete_event
+déplace l'événement entretien à 10:00,update_event
+quels événements sont prévus le 2024-11-14 ?,get_event
+calendrier cours le 2024-11-16 à 16:00,add_event
+retire cours du calendrier le 2024-11-16,delete_event
+replanifier cours pour 16:00,update_event
+quand est ma cours ?,get_event
+planifier formation le 2024-10-02 à 20:00,add_event
+supprime l'événement formation du 2024-10-02,delete_event
+replanifier formation pour 20:00,update_event
+rappelle-moi quand est formation,get_event
+calendrier dîner le 2024-09-11 à 09:00,add_event
+annuler dîner prévu le 2024-09-11,delete_event
+déplace l'événement dîner à 09:00,update_event
+rappelle-moi quand est dîner,get_event
+ajouter un événement appel le 2024-10-31 à 11:00,add_event
+annuler appel prévu le 2024-10-31,delete_event
+change l'heure de l'événement appel à 11:00,update_event
+quand est ma appel ?,get_event
+planifier appel le 2024-10-16 à 16:00,add_event
+annuler appel prévu le 2024-10-16,delete_event
+déplace l'événement appel à 16:00,update_event
+quand ai-je prévu appel ?,get_event
+ajouter un événement réunion le 2024-10-09 à 20:00,add_event
+supprime l'événement réunion du 2024-10-09,delete_event
+replanifier réunion pour 20:00,update_event
+rappelle-moi quand est réunion,get_event
+ajouter un événement réunion le 2024-11-13 à 10:00,add_event
+annuler réunion prévu le 2024-11-13,delete_event
+déplace l'événement réunion à 10:00,update_event
+quels événements sont prévus le 2024-11-13 ?,get_event
+calendrier dîner le 2024-09-11 à 19:00,add_event
+efface l'événement dîner du 2024-09-11,delete_event
+replanifier dîner pour 19:00,update_event
+montre-moi les événements du 2024-09-11,get_event
+ajoute un événement formation pour le 2024-11-26 à 16:00,add_event
+annuler formation prévu le 2024-11-26,delete_event
+change l'heure de l'événement formation à 16:00,update_event
+quand est ma formation ?,get_event
+ajoute un événement appel pour le 2024-11-29 à 14:00,add_event
+supprimer l'événement appel du 2024-11-29,delete_event
+modifie l'événement appel à 14:00,update_event
+quand ai-je prévu appel ?,get_event
+planifier entretien le 2024-09-05 à 10:00,add_event
+supprime l'événement entretien du 2024-09-05,delete_event
+change l'heure de l'événement entretien à 10:00,update_event
+quand est ma entretien ?,get_event
+planifier formation le 2024-10-25 à 11:00,add_event
+supprime l'événement formation du 2024-10-25,delete_event
+met à jour l'événement formation pour 11:00,update_event
+montre-moi les événements du 2024-10-25,get_event
+ajoute un événement réunion pour le 2024-10-14 à 15:00,add_event
+retire réunion du calendrier le 2024-10-14,delete_event
+déplace l'événement réunion à 15:00,update_event
+quand ai-je prévu réunion ?,get_event
+prévoir dîner le 2024-09-30 à 16:00,add_event
+efface l'événement dîner du 2024-09-30,delete_event
+déplace l'événement dîner à 16:00,update_event
+rappelle-moi quand est dîner,get_event
+ajouter un événement entretien le 2024-10-19 à 19:00,add_event
+retire entretien du calendrier le 2024-10-19,delete_event
+modifie l'événement entretien à 19:00,update_event
+quels événements sont prévus le 2024-10-19 ?,get_event
+calendrier entretien le 2024-10-27 à 16:00,add_event
+supprimer l'événement entretien du 2024-10-27,delete_event
+replanifier entretien pour 16:00,update_event
+quand est ma entretien ?,get_event
+planifier réunion le 2024-10-10 à 11:00,add_event
+supprimer l'événement réunion du 2024-10-10,delete_event
+change l'heure de l'événement réunion à 11:00,update_event
+quand est ma réunion ?,get_event
+prévoir appel le 2024-11-06 à 15:00,add_event
+retire appel du calendrier le 2024-11-06,delete_event
+replanifier appel pour 15:00,update_event
+quand est ma appel ?,get_event
+prévoir réunion le 2024-11-23 à 19:00,add_event
+retire réunion du calendrier le 2024-11-23,delete_event
+met à jour l'événement réunion pour 19:00,update_event
+quels événements sont prévus le 2024-11-23 ?,get_event
+planifier entretien le 2024-09-03 à 19:00,add_event
+supprime l'événement entretien du 2024-09-03,delete_event
+modifie l'événement entretien à 19:00,update_event
+quels événements sont prévus le 2024-09-03 ?,get_event
+ajoute un événement entretien pour le 2024-10-19 à 19:00,add_event
+retire entretien du calendrier le 2024-10-19,delete_event
+déplace l'événement entretien à 19:00,update_event
+montre-moi les événements du 2024-10-19,get_event
+ajouter un événement réunion le 2024-11-01 à 15:00,add_event
+annuler réunion prévu le 2024-11-01,delete_event
+change l'heure de l'événement réunion à 15:00,update_event
+quand est ma réunion ?,get_event
+ajouter un événement cours le 2024-08-29 à 11:00,add_event
+supprime l'événement cours du 2024-08-29,delete_event
+modifie l'événement cours à 11:00,update_event
+quand ai-je prévu cours ?,get_event
+planifier formation le 2024-09-17 à 15:00,add_event
+retire formation du calendrier le 2024-09-17,delete_event
+met à jour l'événement formation pour 15:00,update_event
+montre-moi les événements du 2024-09-17,get_event
+calendrier cours le 2024-10-14 à 09:00,add_event
+efface l'événement cours du 2024-10-14,delete_event
+met à jour l'événement cours pour 09:00,update_event
+quels événements sont prévus le 2024-10-14 ?,get_event
+ajoute un événement conférence pour le 2024-11-04 à 10:00,add_event
+efface l'événement conférence du 2024-11-04,delete_event
+change l'heure de l'événement conférence à 10:00,update_event
+quand ai-je prévu conférence ?,get_event
+ajoute un événement réunion pour le 2024-09-15 à 20:00,add_event
+supprime l'événement réunion du 2024-09-15,delete_event
+modifie l'événement réunion à 20:00,update_event
+rappelle-moi quand est réunion,get_event
+prévoir conférence le 2024-11-16 à 11:00,add_event
+supprime l'événement conférence du 2024-11-16,delete_event
+met à jour l'événement conférence pour 11:00,update_event
+rappelle-moi quand est conférence,get_event
+ajouter un événement dîner le 2024-11-10 à 15:00,add_event
+supprimer l'événement dîner du 2024-11-10,delete_event
+replanifier dîner pour 15:00,update_event
+quels événements sont prévus le 2024-11-10 ?,get_event
+prévoir formation le 2024-09-25 à 14:00,add_event
+supprime l'événement formation du 2024-09-25,delete_event
+modifie l'événement formation à 14:00,update_event
+quand ai-je prévu formation ?,get_event
+ajouter un événement appel le 2024-11-10 à 10:00,add_event
+annuler appel prévu le 2024-11-10,delete_event
+déplace l'événement appel à 10:00,update_event
+quels événements sont prévus le 2024-11-10 ?,get_event
+calendrier cours le 2024-09-07 à 11:00,add_event
+retire cours du calendrier le 2024-09-07,delete_event
+déplace l'événement cours à 11:00,update_event
+quand ai-je prévu cours ?,get_event
+ajouter un événement entretien le 2024-09-29 à 09:00,add_event
+supprimer l'événement entretien du 2024-09-29,delete_event
+met à jour l'événement entretien pour 09:00,update_event
+rappelle-moi quand est entretien,get_event
+ajouter un événement entretien le 2024-10-21 à 16:00,add_event
+supprime l'événement entretien du 2024-10-21,delete_event
+déplace l'événement entretien à 16:00,update_event
+quels événements sont prévus le 2024-10-21 ?,get_event
+planifier formation le 2024-09-11 à 09:00,add_event
+efface l'événement formation du 2024-09-11,delete_event
+replanifier formation pour 09:00,update_event
+quels événements sont prévus le 2024-09-11 ?,get_event
+prévoir conférence le 2024-10-23 à 11:00,add_event
+retire conférence du calendrier le 2024-10-23,delete_event
+change l'heure de l'événement conférence à 11:00,update_event
+rappelle-moi quand est conférence,get_event
+planifier dîner le 2024-09-10 à 10:00,add_event
+retire dîner du calendrier le 2024-09-10,delete_event
+modifie l'événement dîner à 10:00,update_event
+rappelle-moi quand est dîner,get_event
+ajoute un événement conférence pour le 2024-10-03 à 16:00,add_event
+supprime l'événement conférence du 2024-10-03,delete_event
+modifie l'événement conférence à 16:00,update_event
+quand ai-je prévu conférence ?,get_event
+planifier entretien le 2024-10-31 à 09:00,add_event
+retire entretien du calendrier le 2024-10-31,delete_event
+déplace l'événement entretien à 09:00,update_event
+quand ai-je prévu entretien ?,get_event
+planifier dîner le 2024-09-07 à 09:00,add_event
+retire dîner du calendrier le 2024-09-07,delete_event
+replanifier dîner pour 09:00,update_event
+montre-moi les événements du 2024-09-07,get_event
+ajoute un événement conférence pour le 2024-10-28 à 14:00,add_event
+supprime l'événement conférence du 2024-10-28,delete_event
+met à jour l'événement conférence pour 14:00,update_event
+quand est ma conférence ?,get_event
+calendrier appel le 2024-09-12 à 10:00,add_event
+retire appel du calendrier le 2024-09-12,delete_event
+change l'heure de l'événement appel à 10:00,update_event
+quand est ma appel ?,get_event
+calendrier dîner le 2024-10-15 à 09:00,add_event
+retire dîner du calendrier le 2024-10-15,delete_event
+replanifier dîner pour 09:00,update_event
+montre-moi les événements du 2024-10-15,get_event
+ajouter un événement entretien le 2024-09-18 à 09:00,add_event
+supprimer l'événement entretien du 2024-09-18,delete_event
+met à jour l'événement entretien pour 09:00,update_event
+rappelle-moi quand est entretien,get_event
+planifier réunion le 2024-09-14 à 16:00,add_event
+efface l'événement réunion du 2024-09-14,delete_event
+déplace l'événement réunion à 16:00,update_event
+rappelle-moi quand est réunion,get_event
+prévoir formation le 2024-09-16 à 20:00,add_event
+supprime l'événement formation du 2024-09-16,delete_event
+déplace l'événement formation à 20:00,update_event
+quels événements sont prévus le 2024-09-16 ?,get_event
+ajouter un événement conférence le 2024-11-05 à 19:00,add_event
+retire conférence du calendrier le 2024-11-05,delete_event
+met à jour l'événement conférence pour 19:00,update_event
+rappelle-moi quand est conférence,get_event
+planifier appel le 2024-08-29 à 20:00,add_event
+efface l'événement appel du 2024-08-29,delete_event
+modifie l'événement appel à 20:00,update_event
+quand est ma appel ?,get_event
+prévoir dîner le 2024-09-01 à 15:00,add_event
+supprimer l'événement dîner du 2024-09-01,delete_event
+change l'heure de l'événement dîner à 15:00,update_event
+quand ai-je prévu dîner ?,get_event
+ajoute un événement cours pour le 2024-10-04 à 09:00,add_event
+supprimer l'événement cours du 2024-10-04,delete_event
+met à jour l'événement cours pour 09:00,update_event
+quand est ma cours ?,get_event
+ajoute un événement cours pour le 2024-11-12 à 11:00,add_event
+annuler cours prévu le 2024-11-12,delete_event
+déplace l'événement cours à 11:00,update_event
+quand ai-je prévu cours ?,get_event
+prévoir dîner le 2024-09-11 à 11:00,add_event
+annuler dîner prévu le 2024-09-11,delete_event
+change l'heure de l'événement dîner à 11:00,update_event
+quand est ma dîner ?,get_event
+ajouter un événement conférence le 2024-12-02 à 16:00,add_event
+efface l'événement conférence du 2024-12-02,delete_event
+déplace l'événement conférence à 16:00,update_event
+quels événements sont prévus le 2024-12-02 ?,get_event
+prévoir appel le 2024-09-05 à 09:00,add_event
+efface l'événement appel du 2024-09-05,delete_event
+replanifier appel pour 09:00,update_event
+rappelle-moi quand est appel,get_event
+ajoute un événement formation pour le 2024-10-09 à 10:00,add_event
+retire formation du calendrier le 2024-10-09,delete_event
+met à jour l'événement formation pour 10:00,update_event
+quand ai-je prévu formation ?,get_event
+prévoir dîner le 2024-09-30 à 11:00,add_event
+supprimer l'événement dîner du 2024-09-30,delete_event
+met à jour l'événement dîner pour 11:00,update_event
+quand ai-je prévu dîner ?,get_event
+planifier réunion le 2024-09-01 à 15:00,add_event
+efface l'événement réunion du 2024-09-01,delete_event
+déplace l'événement réunion à 15:00,update_event
+montre-moi les événements du 2024-09-01,get_event
+calendrier cours le 2024-09-09 à 20:00,add_event
+supprime l'événement cours du 2024-09-09,delete_event
+replanifier cours pour 20:00,update_event
+quand est ma cours ?,get_event
+planifier formation le 2024-10-21 à 19:00,add_event
+supprime l'événement formation du 2024-10-21,delete_event
+modifie l'événement formation à 19:00,update_event
+quels événements sont prévus le 2024-10-21 ?,get_event
+calendrier entretien le 2024-10-29 à 09:00,add_event
+annuler entretien prévu le 2024-10-29,delete_event
+replanifier entretien pour 09:00,update_event
+montre-moi les événements du 2024-10-29,get_event
+planifier réunion le 2024-10-09 à 09:00,add_event
+retire réunion du calendrier le 2024-10-09,delete_event
+modifie l'événement réunion à 09:00,update_event
+quand est ma réunion ?,get_event
+calendrier conférence le 2024-11-10 à 11:00,add_event
+supprime l'événement conférence du 2024-11-10,delete_event
+modifie l'événement conférence à 11:00,update_event
+quels événements sont prévus le 2024-11-10 ?,get_event
+ajouter un événement formation le 2024-10-27 à 16:00,add_event
+efface l'événement formation du 2024-10-27,delete_event
+change l'heure de l'événement formation à 16:00,update_event
+quels événements sont prévus le 2024-10-27 ?,get_event
+ajouter un événement réunion le 2024-10-17 à 16:00,add_event
+supprimer l'événement réunion du 2024-10-17,delete_event
+change l'heure de l'événement réunion à 16:00,update_event
+montre-moi les événements du 2024-10-17,get_event
+ajouter un événement conférence le 2024-10-23 à 16:00,add_event
+efface l'événement conférence du 2024-10-23,delete_event
+met à jour l'événement conférence pour 16:00,update_event
+rappelle-moi quand est conférence,get_event
+calendrier formation le 2024-10-28 à 10:00,add_event
+annuler formation prévu le 2024-10-28,delete_event
+replanifier formation pour 10:00,update_event
+quels événements sont prévus le 2024-10-28 ?,get_event
+ajouter un événement formation le 2024-11-09 à 20:00,add_event
+supprime l'événement formation du 2024-11-09,delete_event
+change l'heure de l'événement formation à 20:00,update_event
+montre-moi les événements du 2024-11-09,get_event
+calendrier entretien le 2024-10-13 à 20:00,add_event
+retire entretien du calendrier le 2024-10-13,delete_event
+met à jour l'événement entretien pour 20:00,update_event
+quels événements sont prévus le 2024-10-13 ?,get_event
+ajoute un événement cours pour le 2024-09-19 à 19:00,add_event
+annuler cours prévu le 2024-09-19,delete_event
+modifie l'événement cours à 19:00,update_event
+quels événements sont prévus le 2024-09-19 ?,get_event
+ajouter un événement dîner le 2024-09-20 à 20:00,add_event
+annuler dîner prévu le 2024-09-20,delete_event
+modifie l'événement dîner à 20:00,update_event
+rappelle-moi quand est dîner,get_event
+calendrier appel le 2024-10-13 à 14:00,add_event
+retire appel du calendrier le 2024-10-13,delete_event
+replanifier appel pour 14:00,update_event
+montre-moi les événements du 2024-10-13,get_event
+ajouter un événement appel le 2024-12-03 à 14:00,add_event
+annuler appel prévu le 2024-12-03,delete_event
+modifie l'événement appel à 14:00,update_event
+quand est ma appel ?,get_event
+ajouter un événement appel le 2024-11-12 à 11:00,add_event
+annuler appel prévu le 2024-11-12,delete_event
+met à jour l'événement appel pour 11:00,update_event
+montre-moi les événements du 2024-11-12,get_event
+calendrier cours le 2024-10-25 à 15:00,add_event
+supprimer l'événement cours du 2024-10-25,delete_event
+modifie l'événement cours à 15:00,update_event
+quand ai-je prévu cours ?,get_event
+prévoir réunion le 2024-12-03 à 19:00,add_event
+retire réunion du calendrier le 2024-12-03,delete_event
+modifie l'événement réunion à 19:00,update_event
+quand est ma réunion ?,get_event
+ajoute un événement cours pour le 2024-09-24 à 10:00,add_event
+supprime l'événement cours du 2024-09-24,delete_event
+déplace l'événement cours à 10:00,update_event
+quels événements sont prévus le 2024-09-24 ?,get_event
+prévoir appel le 2024-10-09 à 14:00,add_event
+annuler appel prévu le 2024-10-09,delete_event
+change l'heure de l'événement appel à 14:00,update_event
+quand est ma appel ?,get_event
+ajouter un événement cours le 2024-11-12 à 09:00,add_event
+supprime l'événement cours du 2024-11-12,delete_event
+met à jour l'événement cours pour 09:00,update_event
+rappelle-moi quand est cours,get_event
+ajoute un événement dîner pour le 2024-09-14 à 09:00,add_event
+annuler dîner prévu le 2024-09-14,delete_event
+met à jour l'événement dîner pour 09:00,update_event
+quand est ma dîner ?,get_event
+calendrier entretien le 2024-09-26 à 11:00,add_event
+supprime l'événement entretien du 2024-09-26,delete_event
+déplace l'événement entretien à 11:00,update_event
+rappelle-moi quand est entretien,get_event
+calendrier appel le 2024-10-13 à 16:00,add_event
+retire appel du calendrier le 2024-10-13,delete_event
+déplace l'événement appel à 16:00,update_event
+quand est ma appel ?,get_event
+prévoir dîner le 2024-12-05 à 15:00,add_event
+retire dîner du calendrier le 2024-12-05,delete_event
+met à jour l'événement dîner pour 15:00,update_event
+rappelle-moi quand est dîner,get_event
+prévoir réunion le 2024-11-02 à 11:00,add_event
+annuler réunion prévu le 2024-11-02,delete_event
+replanifier réunion pour 11:00,update_event
+quels événements sont prévus le 2024-11-02 ?,get_event
+ajouter un événement dîner le 2024-11-08 à 15:00,add_event
+supprimer l'événement dîner du 2024-11-08,delete_event
+déplace l'événement dîner à 15:00,update_event
+quand est ma dîner ?,get_event
+calendrier entretien le 2024-08-29 à 20:00,add_event
+efface l'événement entretien du 2024-08-29,delete_event
+replanifier entretien pour 20:00,update_event
+rappelle-moi quand est entretien,get_event
+ajouter un événement réunion le 2024-11-20 à 09:00,add_event
+annuler réunion prévu le 2024-11-20,delete_event
+replanifier réunion pour 09:00,update_event
+quels événements sont prévus le 2024-11-20 ?,get_event
+planifier conférence le 2024-10-02 à 10:00,add_event
+supprimer l'événement conférence du 2024-10-02,delete_event
+replanifier conférence pour 10:00,update_event
+quand ai-je prévu conférence ?,get_event
+ajoute un événement dîner pour le 2024-11-19 à 20:00,add_event
+supprimer l'événement dîner du 2024-11-19,delete_event
+déplace l'événement dîner à 20:00,update_event
+rappelle-moi quand est dîner,get_event
+ajouter un événement dîner le 2024-09-29 à 20:00,add_event
+retire dîner du calendrier le 2024-09-29,delete_event
+replanifier dîner pour 20:00,update_event
+rappelle-moi quand est dîner,get_event
+calendrier conférence le 2024-11-23 à 15:00,add_event
+efface l'événement conférence du 2024-11-23,delete_event
+change l'heure de l'événement conférence à 15:00,update_event
+quand ai-je prévu conférence ?,get_event
+prévoir appel le 2024-09-25 à 14:00,add_event
+supprime l'événement appel du 2024-09-25,delete_event
+met à jour l'événement appel pour 14:00,update_event
+quels événements sont prévus le 2024-09-25 ?,get_event
+prévoir réunion le 2024-11-30 à 16:00,add_event
+supprime l'événement réunion du 2024-11-30,delete_event
+met à jour l'événement réunion pour 16:00,update_event
+quand ai-je prévu réunion ?,get_event
+calendrier appel le 2024-11-10 à 19:00,add_event
+annuler appel prévu le 2024-11-10,delete_event
+déplace l'événement appel à 19:00,update_event
+quels événements sont prévus le 2024-11-10 ?,get_event
+calendrier appel le 2024-11-19 à 09:00,add_event
+annuler appel prévu le 2024-11-19,delete_event
+met à jour l'événement appel pour 09:00,update_event
+montre-moi les événements du 2024-11-19,get_event
+ajouter un événement réunion le 2024-11-05 à 16:00,add_event
+supprime l'événement réunion du 2024-11-05,delete_event
+modifie l'événement réunion à 16:00,update_event
+quand ai-je prévu réunion ?,get_event
+prévoir conférence le 2024-10-09 à 11:00,add_event
+efface l'événement conférence du 2024-10-09,delete_event
+déplace l'événement conférence à 11:00,update_event
+quand ai-je prévu conférence ?,get_event
+ajoute un événement appel pour le 2024-11-08 à 15:00,add_event
+supprimer l'événement appel du 2024-11-08,delete_event
+déplace l'événement appel à 15:00,update_event
+montre-moi les événements du 2024-11-08,get_event
+prévoir entretien le 2024-11-24 à 09:00,add_event
+efface l'événement entretien du 2024-11-24,delete_event
+change l'heure de l'événement entretien à 09:00,update_event
+quand ai-je prévu entretien ?,get_event
+prévoir cours le 2024-10-11 à 09:00,add_event
+supprimer l'événement cours du 2024-10-11,delete_event
+modifie l'événement cours à 09:00,update_event
+rappelle-moi quand est cours,get_event
+prévoir appel le 2024-11-09 à 10:00,add_event
+efface l'événement appel du 2024-11-09,delete_event
+replanifier appel pour 10:00,update_event
+quand ai-je prévu appel ?,get_event
+calendrier réunion le 2024-11-01 à 16:00,add_event
+supprime l'événement réunion du 2024-11-01,delete_event
+replanifier réunion pour 16:00,update_event
+quand est ma réunion ?,get_event
+ajouter un événement entretien le 2024-11-20 à 14:00,add_event
+supprime l'événement entretien du 2024-11-20,delete_event
+modifie l'événement entretien à 14:00,update_event
+quand est ma entretien ?,get_event
+ajouter un événement réunion le 2024-11-26 à 19:00,add_event
+supprimer l'événement réunion du 2024-11-26,delete_event
+met à jour l'événement réunion pour 19:00,update_event
+quels événements sont prévus le 2024-11-26 ?,get_event
+planifier entretien le 2024-11-13 à 09:00,add_event
+annuler entretien prévu le 2024-11-13,delete_event
+modifie l'événement entretien à 09:00,update_event
+rappelle-moi quand est entretien,get_event
+prévoir conférence le 2024-11-14 à 15:00,add_event
+annuler conférence prévu le 2024-11-14,delete_event
+change l'heure de l'événement conférence à 15:00,update_event
+quels événements sont prévus le 2024-11-14 ?,get_event
+prévoir conférence le 2024-11-15 à 09:00,add_event
+efface l'événement conférence du 2024-11-15,delete_event
+met à jour l'événement conférence pour 09:00,update_event
+montre-moi les événements du 2024-11-15,get_event
+planifier formation le 2024-09-30 à 14:00,add_event
+annuler formation prévu le 2024-09-30,delete_event
+met à jour l'événement formation pour 14:00,update_event
+quand ai-je prévu formation ?,get_event
+calendrier dîner le 2024-10-14 à 10:00,add_event
+supprimer l'événement dîner du 2024-10-14,delete_event
+change l'heure de l'événement dîner à 10:00,update_event
+quels événements sont prévus le 2024-10-14 ?,get_event
+ajouter un événement entretien le 2024-12-03 à 14:00,add_event
+efface l'événement entretien du 2024-12-03,delete_event
+modifie l'événement entretien à 14:00,update_event
+quand ai-je prévu entretien ?,get_event
+prévoir dîner le 2024-11-04 à 20:00,add_event
+annuler dîner prévu le 2024-11-04,delete_event
+met à jour l'événement dîner pour 20:00,update_event
+quand ai-je prévu dîner ?,get_event
+planifier réunion le 2024-12-04 à 14:00,add_event
+retire réunion du calendrier le 2024-12-04,delete_event
+replanifier réunion pour 14:00,update_event
+quand est ma réunion ?,get_event
+ajoute un événement dîner pour le 2024-10-17 à 10:00,add_event
+retire dîner du calendrier le 2024-10-17,delete_event
+change l'heure de l'événement dîner à 10:00,update_event
+quand est ma dîner ?,get_event
+planifier entretien le 2024-11-23 à 09:00,add_event
+retire entretien du calendrier le 2024-11-23,delete_event
+change l'heure de l'événement entretien à 09:00,update_event
+quand est ma entretien ?,get_event
+calendrier conférence le 2024-09-20 à 09:00,add_event
+supprimer l'événement conférence du 2024-09-20,delete_event
+replanifier conférence pour 09:00,update_event
+quand ai-je prévu conférence ?,get_event
+ajouter un événement dîner le 2024-08-31 à 09:00,add_event
+supprime l'événement dîner du 2024-08-31,delete_event
+change l'heure de l'événement dîner à 09:00,update_event
+quand est ma dîner ?,get_event
+planifier cours le 2024-10-23 à 16:00,add_event
+supprimer l'événement cours du 2024-10-23,delete_event
+replanifier cours pour 16:00,update_event
+montre-moi les événements du 2024-10-23,get_event
+calendrier appel le 2024-10-24 à 09:00,add_event
+efface l'événement appel du 2024-10-24,delete_event
+change l'heure de l'événement appel à 09:00,update_event
+quels événements sont prévus le 2024-10-24 ?,get_event
+prévoir entretien le 2024-11-20 à 20:00,add_event
+supprime l'événement entretien du 2024-11-20,delete_event
+change l'heure de l'événement entretien à 20:00,update_event
+quand est ma entretien ?,get_event
+planifier entretien le 2024-09-08 à 11:00,add_event
+efface l'événement entretien du 2024-09-08,delete_event
+replanifier entretien pour 11:00,update_event
+rappelle-moi quand est entretien,get_event
+ajoute un événement formation pour le 2024-09-10 à 14:00,add_event
+supprime l'événement formation du 2024-09-10,delete_event
+replanifier formation pour 14:00,update_event
+quand ai-je prévu formation ?,get_event
+ajoute un événement formation pour le 2024-11-12 à 10:00,add_event
+annuler formation prévu le 2024-11-12,delete_event
+replanifier formation pour 10:00,update_event
+montre-moi les événements du 2024-11-12,get_event
+ajoute un événement cours pour le 2024-09-02 à 11:00,add_event
+retire cours du calendrier le 2024-09-02,delete_event
+déplace l'événement cours à 11:00,update_event
+quand est ma cours ?,get_event
+planifier cours le 2024-11-14 à 09:00,add_event
+retire cours du calendrier le 2024-11-14,delete_event
+replanifier cours pour 09:00,update_event
+rappelle-moi quand est cours,get_event
+calendrier cours le 2024-12-02 à 16:00,add_event
+annuler cours prévu le 2024-12-02,delete_event
+déplace l'événement cours à 16:00,update_event
+montre-moi les événements du 2024-12-02,get_event
+ajoute un événement dîner pour le 2024-10-19 à 20:00,add_event
+supprime l'événement dîner du 2024-10-19,delete_event
+met à jour l'événement dîner pour 20:00,update_event
+quand est ma dîner ?,get_event
+calendrier formation le 2024-10-23 à 11:00,add_event
+annuler formation prévu le 2024-10-23,delete_event
+change l'heure de l'événement formation à 11:00,update_event
+quels événements sont prévus le 2024-10-23 ?,get_event
+ajoute un événement conférence pour le 2024-09-07 à 11:00,add_event
+annuler conférence prévu le 2024-09-07,delete_event
+replanifier conférence pour 11:00,update_event
+rappelle-moi quand est conférence,get_event
+ajoute un événement entretien pour le 2024-09-05 à 11:00,add_event
+retire entretien du calendrier le 2024-09-05,delete_event
+replanifier entretien pour 11:00,update_event
+quand ai-je prévu entretien ?,get_event
+calendrier formation le 2024-09-11 à 20:00,add_event
+annuler formation prévu le 2024-09-11,delete_event
+change l'heure de l'événement formation à 20:00,update_event
+quand est ma formation ?,get_event
+planifier cours le 2024-11-08 à 20:00,add_event
+retire cours du calendrier le 2024-11-08,delete_event
+déplace l'événement cours à 20:00,update_event
+quand ai-je prévu cours ?,get_event
+ajoute un événement formation pour le 2024-11-22 à 09:00,add_event
+retire formation du calendrier le 2024-11-22,delete_event
+replanifier formation pour 09:00,update_event
+quels événements sont prévus le 2024-11-22 ?,get_event
+calendrier formation le 2024-10-31 à 09:00,add_event
+supprimer l'événement formation du 2024-10-31,delete_event
+change l'heure de l'événement formation à 09:00,update_event
+quels événements sont prévus le 2024-10-31 ?,get_event
+prévoir conférence le 2024-11-12 à 14:00,add_event
+retire conférence du calendrier le 2024-11-12,delete_event
+replanifier conférence pour 14:00,update_event
+montre-moi les événements du 2024-11-12,get_event
+ajoute un événement dîner pour le 2024-09-14 à 14:00,add_event
+supprime l'événement dîner du 2024-09-14,delete_event
+change l'heure de l'événement dîner à 14:00,update_event
+quand est ma dîner ?,get_event
+planifier formation le 2024-11-17 à 10:00,add_event
+efface l'événement formation du 2024-11-17,delete_event
+modifie l'événement formation à 10:00,update_event
+quels événements sont prévus le 2024-11-17 ?,get_event
+ajouter un événement réunion le 2024-10-09 à 20:00,add_event
+supprimer l'événement réunion du 2024-10-09,delete_event
+modifie l'événement réunion à 20:00,update_event
+quand est ma réunion ?,get_event
+prévoir conférence le 2024-11-29 à 19:00,add_event
+efface l'événement conférence du 2024-11-29,delete_event
+met à jour l'événement conférence pour 19:00,update_event
+montre-moi les événements du 2024-11-29,get_event
+ajoute un événement appel pour le 2024-11-18 à 19:00,add_event
+annuler appel prévu le 2024-11-18,delete_event
+replanifier appel pour 19:00,update_event
+quand ai-je prévu appel ?,get_event
+calendrier dîner le 2024-10-28 à 19:00,add_event
+supprimer l'événement dîner du 2024-10-28,delete_event
+replanifier dîner pour 19:00,update_event
+quand ai-je prévu dîner ?,get_event
+planifier entretien le 2024-10-25 à 19:00,add_event
+efface l'événement entretien du 2024-10-25,delete_event
+met à jour l'événement entretien pour 19:00,update_event
+montre-moi les événements du 2024-10-25,get_event
+calendrier conférence le 2024-09-06 à 11:00,add_event
+annuler conférence prévu le 2024-09-06,delete_event
+modifie l'événement conférence à 11:00,update_event
+montre-moi les événements du 2024-09-06,get_event
+calendrier cours le 2024-10-23 à 19:00,add_event
+annuler cours prévu le 2024-10-23,delete_event
+modifie l'événement cours à 19:00,update_event
+quand ai-je prévu cours ?,get_event
+calendrier conférence le 2024-10-30 à 20:00,add_event
+retire conférence du calendrier le 2024-10-30,delete_event
+déplace l'événement conférence à 20:00,update_event
+quand est ma conférence ?,get_event
+planifier entretien le 2024-10-01 à 20:00,add_event
+efface l'événement entretien du 2024-10-01,delete_event
+change l'heure de l'événement entretien à 20:00,update_event
+quand ai-je prévu entretien ?,get_event
+ajouter un événement formation le 2024-10-06 à 15:00,add_event
+supprimer l'événement formation du 2024-10-06,delete_event
+déplace l'événement formation à 15:00,update_event
+rappelle-moi quand est formation,get_event
+calendrier entretien le 2024-11-24 à 19:00,add_event
+supprimer l'événement entretien du 2024-11-24,delete_event
+déplace l'événement entretien à 19:00,update_event
+quand ai-je prévu entretien ?,get_event
+prévoir cours le 2024-09-12 à 10:00,add_event
+supprime l'événement cours du 2024-09-12,delete_event
+modifie l'événement cours à 10:00,update_event
+quand est ma cours ?,get_event
+prévoir réunion le 2024-10-27 à 10:00,add_event
+supprime l'événement réunion du 2024-10-27,delete_event
+change l'heure de l'événement réunion à 10:00,update_event
+quand ai-je prévu réunion ?,get_event
+ajoute un événement entretien pour le 2024-11-15 à 16:00,add_event
+supprimer l'événement entretien du 2024-11-15,delete_event
+déplace l'événement entretien à 16:00,update_event
+rappelle-moi quand est entretien,get_event
+planifier appel le 2024-10-05 à 19:00,add_event
+efface l'événement appel du 2024-10-05,delete_event
+modifie l'événement appel à 19:00,update_event
+montre-moi les événements du 2024-10-05,get_event
+prévoir entretien le 2024-10-22 à 20:00,add_event
+supprime l'événement entretien du 2024-10-22,delete_event
+replanifier entretien pour 20:00,update_event
+quand est ma entretien ?,get_event
+ajoute un événement réunion pour le 2024-08-31 à 11:00,add_event
+supprime l'événement réunion du 2024-08-31,delete_event
+déplace l'événement réunion à 11:00,update_event
+montre-moi les événements du 2024-08-31,get_event
+calendrier cours le 2024-09-28 à 10:00,add_event
+retire cours du calendrier le 2024-09-28,delete_event
+déplace l'événement cours à 10:00,update_event
+quand ai-je prévu cours ?,get_event
+planifier appel le 2024-09-07 à 14:00,add_event
+retire appel du calendrier le 2024-09-07,delete_event
+modifie l'événement appel à 14:00,update_event
+montre-moi les événements du 2024-09-07,get_event
+ajoute un événement réunion pour le 2024-10-04 à 15:00,add_event
+efface l'événement réunion du 2024-10-04,delete_event
+met à jour l'événement réunion pour 15:00,update_event
+quels événements sont prévus le 2024-10-04 ?,get_event
+planifier réunion le 2024-09-06 à 19:00,add_event
+retire réunion du calendrier le 2024-09-06,delete_event
+modifie l'événement réunion à 19:00,update_event
+rappelle-moi quand est réunion,get_event
+ajoute un événement appel pour le 2024-10-07 à 19:00,add_event
+supprimer l'événement appel du 2024-10-07,delete_event
+met à jour l'événement appel pour 19:00,update_event
+montre-moi les événements du 2024-10-07,get_event
+ajouter un événement entretien le 2024-09-10 à 10:00,add_event
+annuler entretien prévu le 2024-09-10,delete_event
+met à jour l'événement entretien pour 10:00,update_event
+rappelle-moi quand est entretien,get_event
+ajouter un événement appel le 2024-10-04 à 10:00,add_event
+supprime l'événement appel du 2024-10-04,delete_event
+replanifier appel pour 10:00,update_event
+quels événements sont prévus le 2024-10-04 ?,get_event
+planifier réunion le 2024-10-03 à 09:00,add_event
+supprimer l'événement réunion du 2024-10-03,delete_event
+replanifier réunion pour 09:00,update_event
+quand est ma réunion ?,get_event
+ajouter un événement dîner le 2024-12-04 à 19:00,add_event
+retire dîner du calendrier le 2024-12-04,delete_event
+déplace l'événement dîner à 19:00,update_event
+quand est ma dîner ?,get_event
+planifier entretien le 2024-09-11 à 09:00,add_event
+supprime l'événement entretien du 2024-09-11,delete_event
+replanifier entretien pour 09:00,update_event
+quand est ma entretien ?,get_event
+ajouter un événement formation le 2024-09-02 à 10:00,add_event
+supprimer l'événement formation du 2024-09-02,delete_event
+déplace l'événement formation à 10:00,update_event
+quels événements sont prévus le 2024-09-02 ?,get_event
+calendrier dîner le 2024-09-29 à 10:00,add_event
+supprime l'événement dîner du 2024-09-29,delete_event
+modifie l'événement dîner à 10:00,update_event
+quels événements sont prévus le 2024-09-29 ?,get_event
+ajouter un événement dîner le 2024-10-13 à 09:00,add_event
+annuler dîner prévu le 2024-10-13,delete_event
+change l'heure de l'événement dîner à 09:00,update_event
+quand est ma dîner ?,get_event
+calendrier entretien le 2024-10-30 à 10:00,add_event
+supprimer l'événement entretien du 2024-10-30,delete_event
+replanifier entretien pour 10:00,update_event
+rappelle-moi quand est entretien,get_event

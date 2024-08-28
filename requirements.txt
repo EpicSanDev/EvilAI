@@ -1,0 +1,11 @@
+Flask
+Flask-Login
+Flask-SQLAlchemy==2.5.1
+Flask-Migrate==3.0.1
+flask-cors==3.0.10
+google-cloud-speech==2.9.0
+google-cloud-texttospeech==2.6.0
+pyttsx3==2.90
+
+tensorflow
+scikit-learn
