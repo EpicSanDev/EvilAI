@@ -9,14 +9,21 @@ import pickle
 import csv
 
 # Charger les embeddings GloVe (ou autres embeddings préentraînés)
-def load_glove_embeddings(filepath, word_index, embedding_dim=100):
+def load_glove_embeddings(filepath, word_index, embedding_dim=300):
     embeddings_index = {}
     with open(filepath, 'r', encoding='utf8') as f:
         for line in f:
             values = line.split()
             word = values[0]
-            coefs = np.asarray(values[1:], dtype='float32')
-            embeddings_index[word] = coefs
+            try:
+                coefs = np.asarray(values[1:], dtype='float32')
+            except ValueError:
+                print(f"Error parsing line for word '{word}': {line}")
+                continue
+            if len(coefs) == embedding_dim:
+                embeddings_index[word] = coefs
+            else:
+                print(f"Skipping word '{word}' due to incorrect dimension ({len(coefs)} vs expected {embedding_dim})")
 
     embedding_matrix = np.zeros((len(word_index) + 1, embedding_dim))
     for word, i in word_index.items():
@@ -47,7 +54,7 @@ label_sequences = np.array([label_tokenizer.word_index.get(label, 0) for label i
 
 # Charger les embeddings GloVe
 embedding_dim = 100
-embedding_matrix = load_glove_embeddings('glove.6B.100d.txt', tokenizer.word_index, embedding_dim)
+embedding_matrix = load_glove_embeddings('glove.840B.300d.txt', tokenizer.word_index, embedding_dim)
 
 # Définir le modèle avec embeddings préentraînés et mécanisme d'attention
 input_seq = Input(shape=(padded_sequences.shape[1],))
