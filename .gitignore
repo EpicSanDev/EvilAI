@@ -6,4 +6,4 @@ command_model.h5
 complex_command_model.h5
 label_tokenizer.pickle
 tokenizer.pickle
-/Users/bastienjavaux/Desktop/EvilAI/glove.840B.300d.txt
+glove.840B.300d.txt
