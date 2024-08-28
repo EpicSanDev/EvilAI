@@ -42,7 +42,7 @@ with open('event_commands.csv', mode='r') as file:
         labels.append(row['label'])
 
 # Préparer les données
-tokenizer = Tokenizer(num_words=10000, oov_token="<OOV>")
+tokenizer = Tokenizer(num_words=20000, oov_token="<OOV>")
 tokenizer.fit_on_texts(commands)
 sequences = tokenizer.texts_to_sequences(commands)
 padded_sequences = pad_sequences(sequences, padding='post')
