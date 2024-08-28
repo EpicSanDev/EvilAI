@@ -12,7 +12,7 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 main_routes = Blueprint('main', __name__)
 
 # Charger le modèle et les tokenizers au démarrage de l'application
-model = tf.keras.models.load_model('command_model.h5')
+model = tf.keras.models.load_model('advanced_command_model.h5')
 with open('tokenizer.pickle', 'rb') as handle:
     tokenizer = pickle.load(handle)
 with open('label_tokenizer.pickle', 'rb') as handle:

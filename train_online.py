@@ -11,8 +11,8 @@ if not os.path.exists('user_interactions.log'):
     open('user_interactions.log', 'w').close()
 
 # Charger le modèle et les tokenizers existants
-if os.path.exists('command_model.h5'):
-    model = load_model('command_model.h5')
+if os.path.exists('advanced_command_model.h5'):
+    model = load_model('advanced_command_model.h5')
     
     # Recompiler le modèle pour s'assurer que les métriques sont bien définies
     model.compile(loss='sparse_categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
@@ -50,7 +50,7 @@ if new_data:
     model.fit(padded_sequences, label_sequences, epochs=5)
 
     # Sauvegarder le modèle mis à jour
-    model.save('command_model.h5')
+    model.save('advanced_command_model.h5')
 
     # Vider le fichier de log après réentraînement
     open('user_interactions.log', 'w').close()
